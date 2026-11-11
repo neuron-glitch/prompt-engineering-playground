@@ -6,7 +6,7 @@ If you use the **AI Prompt Engineering Playground** in your teaching, research, 
 
 ## APA (7th Edition)
 
-Chennuru, V. K. (2025). *AI Prompt Engineering Playground* [Open Educational Resource]. GitHub. https://github.com/YOUR-USERNAME/prompt-engineering-playground
+Chennuru, V. K. (2025). *AI Prompt Engineering Playground* [Open Educational Resource]. GitHub. https://github.com/neuron-glitch/prompt-engineering-playground
 
 ---
 
@@ -18,7 +18,7 @@ Chennuru, Venkata Krishnaveni. *AI Prompt Engineering Playground*. 2025, github.
 
 ## Chicago / Turabian
 
-Chennuru, Venkata Krishnaveni. "AI Prompt Engineering Playground." Open Educational Resource. 2025. https://github.com/YOUR-USERNAME/prompt-engineering-playground.
+Chennuru, Venkata Krishnaveni. "AI Prompt Engineering Playground." Open Educational Resource. 2025. https://github.com/neuron-glitch/prompt-engineering-playground.
 
 ---
 
