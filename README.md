@@ -11,7 +11,7 @@
 
 ## 🌐 Live Demo
 
-**👉 [Open the Playground](https://YOUR-USERNAME.github.io/prompt-engineering-playground/)**
+**👉 [Open the Playground](https://neuron-glitch.github.io/prompt-engineering-playground/)**
 
 No sign-up. No cost. No installation. Works in any modern browser.
 
